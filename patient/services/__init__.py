@@ -1,1 +1,2 @@
-from patient.services.patient_service import PatientService
+from .patient_service import PatientService
+from .disease_service import DiseaseService
