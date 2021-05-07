@@ -1,0 +1,2 @@
+from .patient_serializer import PatientSerializer
+from .disease_serializer import DiseaseSerializer
